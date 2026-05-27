@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3X4rRYNow2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khw06\\CS20200-project\\AnimalShogi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khw06\\.nuget\\packages\\fsharp.core\\10.0.103\\fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}

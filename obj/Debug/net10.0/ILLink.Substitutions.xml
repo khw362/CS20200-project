@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="AnimalShogi">
+    <resource name="FSharpSignatureData.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpOptimizationData.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.AnimalShogi" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.AnimalShogi" action="remove"></resource>
+  </assembly>
+</linker>
